@@ -4,22 +4,23 @@ description: > # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 permalink: ':title/'
-baseurl: "/flexible-jekyll" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "zdpau.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: David Freeman # add your name
-author-img: david-freeman.jpg # add your photo
-about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
-social-twitter: # add your Twitter handle
-social-facebook: # add your Facebook handle
-social-github: artemsheludko # add your Github handle
-social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
+author: Duo Zhang # add your name
+author-img: zhangduo.jpg # add your photo
+about-author: Hello, I am a master student at the Dept. of Computer Science, University of Tsukuba.    Welcome to my website! # add description
+social-email: 774290360@qq.com # add your Email address
+social-facebook: https://www.facebook.com/profile.php?id=100005950869017 # add your Facebook handle
+social-github: https://github.com/zdpau # add your Github handle
+social-twitter: https://twitter.com/zdpau # add your Twitter handle
+social-linkedin: https://www.linkedin.com/in/%E8%88%B5-%E5%BC%A0-231b6a97/ # add your Linkedin handle
+
 
 # Disqus
-discus-identifier: mr-brown # add your discus identifier
+discus-identifier: Zhang Duo # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
