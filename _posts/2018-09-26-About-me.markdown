@@ -8,9 +8,9 @@ fig-caption: # Add figcaption (optional)
 tags: [CV, Myself]
 ---
 
-我的简历在这里：
+我的简历在这里：[https://zdpau.github.io/CV/](https://zdpau.github.io/CV/)
 
-My CV can be founded at 
+My CV can be founded at [https://zdpau.github.io/CV/](https://zdpau.github.io/CV/)
 
 
 
