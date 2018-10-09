@@ -11,7 +11,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Duo Zhang # add your name
 author-img: zhangduo.jpg # add your photo
-about-author: Hello, I am a master student at the Dept. of Computer Science, University of Tsukuba.    Welcome to my website! # add description
+about-author: Hello, I am a master student at the Dept. of Computer Science, University of Tsukuba. Meanwhile, I am an intern at the National Institute of Advanced Industrial Science and Technology (AIST).  Welcome to my website! # add description
 social-email: 774290360@qq.com # add your Email address
 social-facebook: profile.php?id=100005950869017 # add your Facebook handle
 social-github: zdpau # add your Github handle
